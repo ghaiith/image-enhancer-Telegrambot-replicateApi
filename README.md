@@ -22,8 +22,8 @@ To use this bot, you need to follow these steps:
 4. Set the API variables for your Telegram bot token and Replicate API token:
 
    ```
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-REPLICATE_API_TOKEN = "YOUR_REPLICATE_API_TOKEN"
+    TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+    REPLICATE_API_TOKEN = "YOUR_REPLICATE_API_TOKEN"
    ```
 
 5. Run the bot by executing the main Python script:
